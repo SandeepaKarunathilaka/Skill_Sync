@@ -2,7 +2,7 @@
 
 ## 📚 Overview
 
-Skill-Sync is a full-stack web platform that empowers users to share and learn skills such as coding, cooking, photography, and more. This project was developed for the IT3030 – Programming Applications and Frameworks (PAF) module at SLIIT.
+Skill-Sync is a full-stack web platform that empowers users to share and learn skills such as coding. This project was developed for the IT3030 – Programming Applications and Frameworks (PAF) module at SLIIT.
 
 It features:
 - A secure Spring Boot REST API
