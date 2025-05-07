@@ -1,4 +1,4 @@
- # Skill-Sync – Skill Sharing & Learning Platform
+# Skill-Sync – Skill Sharing & Learning Platform
 
 ## 📚 Overview
 
